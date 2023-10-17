@@ -1,2 +1,3 @@
 # git-training
-descibe the training
+describe the training
+developing the app
